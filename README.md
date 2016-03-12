@@ -1,11 +1,12 @@
 # Humix
 ##Instal
 
-i386 build of ruby-vmc 0.3.18-0ubuntu1 in ubuntu quantal RELEASE </br>
-https://launchpad.net/ubuntu/+source/ruby-vmc/0.3.18-0ubuntu1/+build/3576596 
+. i386 build of ruby-vmc 0.3.18-0ubuntu1 in ubuntu quantal RELEASE </br>
+https://launchpad.net/ubuntu/+source/ruby-vmc/0.3.18-0ubuntu1/+build/3576596  </br>
+https://launchpad.net/ubuntu/quantal/i386/ruby-vmc/0.3.18-0ubuntu1  </br>
 
 ---need---  </br>
-ruby-vmc_0.3.18-0ubuntu1_all.deb </br>
+ </br>
 
     cloudfoundry-client_0.3.18-0ubuntu1_all.deb (2.3 KiB)
     ruby-vmc_0.3.18-0ubuntu1_all.deb (48.8 KiB)

@@ -1,4 +1,9 @@
 # Humix
+##Instal
+ruby-vmc_0.3.18-0ubuntu1_all.deb </br>
+
+>need  </br>
+
 
 ###ruby-vmc
 http://packages.ubuntu.com/precise/ruby-vmc 

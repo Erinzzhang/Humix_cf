@@ -2,7 +2,7 @@
 
 ###ruby-vmc
 http://packages.ubuntu.com/precise/ruby-vmc 
->need
+>need </br>
  libhighline-ruby1.9.1
     Transitional package for ruby-highline
     同時作為一個虛擬套件由這些套件提供： ruby-highline 

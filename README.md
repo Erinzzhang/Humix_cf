@@ -1,13 +1,30 @@
 # Humix
 ##Instal
+###Client library and CLI for the VMware Cloud Application Platform
+https://launchpad.net/ubuntu/precise/+package/cloudfoundry-client </br>
+
+. cloudfoundry-client 0.3.10-0ubuntu10 (armhf binary) in ubuntu precise </br>
+https://launchpad.net/ubuntu/precise/armhf/cloudfoundry-client/0.3.10-0ubuntu10 
+      Package relationships  </br>
+         Depends on: ruby-vmc (= 0.3.10-0ubuntu10)
+      Downloadable files </br>
+         i386 build of ruby-vmc 0.3.10-0ubuntu10 in ubuntu oneiric RELEASE 
+         produced these files: </br>
+         cloudfoundry-client_0.3.10-0ubuntu10_all.deb (2.2 KiB)
+
+
+
+
 
 . i386 build of ruby-vmc 0.3.18-0ubuntu1 in ubuntu quantal RELEASE </br>
 https://launchpad.net/ubuntu/quantal/i386/ruby-vmc/0.3.18-0ubuntu1  </br>
+
 ----- </br>
 </br>
    This package provides the command-line interface, vmc, for Cloud Foundry.
    With this application, one can deploy Ruby, Node.js, Java and similar
    applications to the Cloud Foundry cloud.
+-----   
 
 
 ---need---  </br>

@@ -5,11 +5,12 @@ https://launchpad.net/ubuntu/precise/+package/cloudfoundry-client </br>
 
 . cloudfoundry-client 0.3.10-0ubuntu10 (armhf binary) in ubuntu precise </br>
 https://launchpad.net/ubuntu/precise/armhf/cloudfoundry-client/0.3.10-0ubuntu10 
-      Package relationships  </br>
+
+      Package relationships  
          Depends on: ruby-vmc (= 0.3.10-0ubuntu10)
-      Downloadable files </br>
+      Downloadable files 
          i386 build of ruby-vmc 0.3.10-0ubuntu10 in ubuntu oneiric RELEASE 
-         produced these files: </br>
+         produced these files: 
          cloudfoundry-client_0.3.10-0ubuntu10_all.deb (2.2 KiB)
 
 

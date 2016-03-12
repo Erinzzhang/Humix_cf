@@ -2,10 +2,10 @@
 ##Instal
 ruby-vmc_0.3.18-0ubuntu1_all.deb </br>
 
->need  </br>
+---need---  </br>
 
-
-###ruby-vmc
+---
+####1.ruby-vmc
 http://packages.ubuntu.com/precise/ruby-vmc 
 >need 
 

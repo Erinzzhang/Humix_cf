@@ -3,9 +3,13 @@
 
 . i386 build of ruby-vmc 0.3.18-0ubuntu1 in ubuntu quantal RELEASE </br>
 https://launchpad.net/ubuntu/quantal/i386/ruby-vmc/0.3.18-0ubuntu1  </br>
-|| This package provides the command-line interface, vmc, for Cloud Foundry.
-|| With this application, one can deploy Ruby, Node.js, Java and similar
-|| applications to the Cloud Foundry cloud.
+----- </br>
+</br>
+   This package provides the command-line interface, vmc, for Cloud Foundry.
+   With this application, one can deploy Ruby, Node.js, Java and similar
+   applications to the Cloud Foundry cloud.
+
+
 ---need---  </br>
  </br>
 
